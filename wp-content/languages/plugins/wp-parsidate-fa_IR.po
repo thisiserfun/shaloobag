@@ -1,0 +1,246 @@
+# Translation of Plugins - Parsi Date - Stable (latest release) in Persian
+# This file is distributed under the same license as the Plugins - Parsi Date - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-12-06 20:44:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fa\n"
+"Project-Id-Version: Plugins - Parsi Date - Stable (latest release)\n"
+
+#. Plugin URI of the plugin
+msgid "http://forum.wp-parsi.com/"
+msgstr "http://forum.wp-parsi.com/ "
+
+#: assets/js/gutenberg-jalali-calendar.build.js:1
+msgid "Publish:"
+msgstr "انتشار:"
+
+#: assets/js/gutenberg-jalali-calendar.build.js:1
+msgid "Click to change"
+msgstr "برای تغییر کلیک کنید"
+
+#: assets/js/gutenberg-jalali-calendar.build.js:1
+msgid "Publish"
+msgstr "انتشار"
+
+#: assets/js/gutenberg-jalali-calendar.build.js:1
+msgid "Immediately"
+msgstr "بلافاصله"
+
+#: wp-parsidate.php:189
+msgid "settings"
+msgstr "تنظیمات"
+
+#: includes/plugins/edd.php:81
+msgid "Replace ریال with RIAL"
+msgstr "جایگزینی ریال با RIAL"
+
+#: includes/plugins/edd.php:69
+msgid "Easy Digital Downloads"
+msgstr "Easy Digital Downloads"
+
+#: includes/plugins/disable.php:166
+msgid "Enter hook,class,function to remove parsidate filter from it"
+msgstr "نام هوک، کلاس و تابع موردنظر را جهت رفع فیلتر پارسی‌دیت وارد کنید"
+
+#: includes/plugins/disable.php:162
+msgid "Hook list"
+msgstr "لیست فیلترها"
+
+#: includes/plugins/disable.php:157
+msgid "Hook deactivator"
+msgstr "غیرفعال کردن فیلتر وردپرس پارسی"
+
+#: includes/plugins/woocommerce.php:64 includes/plugins/edd.php:74
+msgid "Fix prices"
+msgstr "تصحیح قیمت‌ها"
+
+#: includes/plugins/woocommerce.php:59
+msgid "WooCommerce"
+msgstr "ووکامرس"
+
+#: includes/widget/widget_calendar.php:24
+msgid "Title:"
+msgstr "عنوان:"
+
+#: includes/widget/widget_calendar.php:13
+#: includes/widget/widget_calendar.php:15
+#: includes/widget/widget_calendar.php:27
+msgid "Jalali Date Calender"
+msgstr "گاه‌شمار تاریخ خورشیدی"
+
+#: includes/widget/widget_archive.php:61 includes/widget/widget_calendar.php:31
+msgid "For use widget, active \"Fix permalinks dates\" option in plugin settings."
+msgstr "برای استفاده از ابزارک، گزینه \"تبدیل تاریخ در پیوندهای یکتا\" را در تنظیمات افزونه فعال کنید."
+
+#: includes/widget/widget_archive.php:57
+msgid "Display as dropdown"
+msgstr " نمايش به صورت ليست بازشو"
+
+#: includes/widget/widget_archive.php:52
+msgid "Show post counts"
+msgstr " نمايش تعداد نوشته‌ها "
+
+#: includes/widget/widget_archive.php:46
+msgid "Daily"
+msgstr "روزانه"
+
+#: includes/widget/widget_archive.php:42
+msgid "Monthly"
+msgstr "ماهانه"
+
+#: includes/widget/widget_archive.php:39
+msgid "Yearly"
+msgstr "سالانه"
+
+#: includes/widget/widget_archive.php:15 includes/widget/widget_archive.php:17
+#: includes/widget/widget_archive.php:25 includes/widget/widget_archive.php:34
+#: includes/widget/widget_archive.php:68 includes/widget/widget_archive.php:84
+msgid "Jalali Date Archives"
+msgstr "بایگانی تاریخ خورشیدی"
+
+#: includes/admin/lists-fix.php:87
+msgid "Show All Dates"
+msgstr "نمایش همه‌ی تاریخ‌ها"
+
+#: includes/general.php:169
+msgid "<div class=\"updated wpp-message\"><p>ParsiDate activated, you may need to configure it to work properly. <a href=\"%s\">Go to configuartion page</a> &ndash; <a href=\"%s\">Dismiss</a></p></div>"
+msgstr "<div class=\"updated wpp-message\"><p>وردپرس پارسی فعال شد! برای کارکردن افزونه نیاز به پیکربندی آن دارید. <a href=\"%s\">برگه‌ی پیکربندی</a> &ndash; <a href=\"%s\">بی‌خیال</a></p></div>"
+
+#: includes/settings.php:559
+msgid "Upload File"
+msgstr "آپلود فایل"
+
+#: includes/settings.php:333
+msgid "By enabling this, dates in permalinks converted to Shamsi (Jalali) date"
+msgstr "با فعال‌کردن این گزینه، تاریخ‌ها در پیوندهای یکتا به تاریخ خورشیدی (جلالی) تبدیل می‌شوند"
+
+#: includes/settings.php:329
+msgid "Fix permalinks dates"
+msgstr "تبدیل تاریخ در پیوندهای یکتا"
+
+#: includes/settings.php:325
+msgid "Fixes arabic characters caused by wrong keyboard layouts"
+msgstr "این گزینه، حروف عربی را در کل سیستم به حروف فارسی تصحیح می‌کند<br>برای مثال ٤/٥/٦ به ۴ / ۵ / ۶ و ك / ي به ک / ی"
+
+#: includes/settings.php:321
+msgid "Fix arabic characters"
+msgstr "تصحیح حروف عربی"
+
+#: includes/settings.php:310
+msgid "Categories"
+msgstr "دسته‌بندی‌ها"
+
+#: includes/settings.php:303
+msgid "Dates"
+msgstr "تاریخ‌ها"
+
+#: includes/settings.php:296
+msgid "Comments count"
+msgstr "تعداد دیدگاه‌ها"
+
+#: includes/settings.php:289
+msgid "Comments text"
+msgstr "در نوشته‌ی دیدگاه‌ها"
+
+#: includes/settings.php:282
+msgid "Post excerpt"
+msgstr "در خلاصه‌ی نوشته‌ها"
+
+#: includes/settings.php:275
+msgid "Post content"
+msgstr "در محتوای نوشته‌ها"
+
+#: includes/settings.php:268
+msgid "Post title"
+msgstr "در عنوان نوشته‌ها"
+
+#: includes/settings.php:261
+msgid "Page title"
+msgstr "در عنوان صفحه"
+
+#: includes/settings.php:256
+msgid "Persian digits"
+msgstr "رقم‌های پارسی"
+
+#: includes/settings.php:250
+msgid "With enabling this option, page item will be moved to Settings menu as submenu."
+msgstr "با فعال‌کردن این گزینه، مورد پیکربندی پلاگین به زیرمنوی \"تنظیمات\" منتقل می‌شود."
+
+#: includes/settings.php:246
+msgid "Move page to submenu?"
+msgstr "انتقال این برگه به زیرمنو؟"
+
+#: includes/settings.php:242
+msgid "By enabling this, Dates will convert to Shamsi (Jalali) dates"
+msgstr "با فعال‌کردن این گزینه، تاریخ‌ها به صورت تاریخ خورشیدی (جلالی) درمی‌آیند"
+
+#: includes/settings.php:238
+msgid "Shamsi date"
+msgstr "تاریخ خورشیدی"
+
+#: includes/settings.php:234
+msgid "This option change WordPress locale to Persian in theme"
+msgstr "این گزینه باعث تغییر زبان سایت می‌شود"
+
+#: includes/settings.php:230
+msgid "Change Locale in theme"
+msgstr "تغییر زبان سایت"
+
+#: includes/settings.php:226
+msgid "This option change WordPress locale to Persian in Admin"
+msgstr "این گزینه باعث تغییر زبان مدیریت می‌شود"
+
+#: includes/settings.php:222
+msgid "Change Locale in admin"
+msgstr "تغییر زبان مدیریت"
+
+#: includes/plugins/disable.php:152 includes/plugins/woocommerce.php:54
+#: includes/plugins/edd.php:64 includes/settings.php:216
+msgid "Disable"
+msgstr "غیرفعال"
+
+#: includes/plugins/disable.php:151 includes/plugins/woocommerce.php:53
+#: includes/plugins/edd.php:63 includes/settings.php:215
+msgid "Enable"
+msgstr "فعال"
+
+#: includes/settings.php:136
+msgid "%s Plugins compability"
+msgstr "%s هماهنگی با افزونه‌ها"
+
+#: includes/settings.php:135
+msgid "%s Converts"
+msgstr "%s تبدیل"
+
+#: includes/settings.php:134
+msgid "%s Core"
+msgstr "%s هسته"
+
+#: includes/settings.php:29 includes/settings.php:30 includes/settings.php:37
+#: includes/settings.php:38 includes/settings.php:592
+msgid "Parsi Settings"
+msgstr "تنظیمات پارسی"
+
+#. Author URI of the plugin
+msgid "http://wp-parsi.com/"
+msgstr "http://wp-parsi.com/"
+
+#. Author of the plugin
+#: languages/common-strings.php:4
+msgid "WP-Parsi Team"
+msgstr "تیم وردپرس پارسی"
+
+#. Description of the plugin
+#: languages/common-strings.php:3
+msgid "Persian package for WordPress, Adds full RTL and Shamsi (Jalali) support for: posts, comments, pages, archives, search, categories, permalinks and all admin sections and TinyMce editor, lists, quick editor. This package has Jalali archive widget."
+msgstr "بسته‌ی پارسی سازی وردپرس، اضافه‌کردن پشتیبانی کامل راست‌به‌چپ و تاریخ خورشیدی برای وردپرس. این افزونه از نوشته‌ها، دیدگاه‌ها، برگه‌ها، بایگانی‌ها، جستجو‌ها و دسته‌بندی‌ها و پیوندهای یکتا پشتیبانی می‌کند و تمام قسمت‌های مدیریت و ویرایشگر را پارسی می‌کند. این افزونه هم‌چنین یک  ابزارک بایگانی شمسی نیز دارد."
+
+#. Plugin Name of the plugin
+#: languages/common-strings.php:2
+msgid "WP-Parsidate"
+msgstr "بسته وردپرس پارسی"
