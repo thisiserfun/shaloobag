@@ -1,0 +1,436 @@
+# Translation of Plugins - Gutenberg - Development (trunk) in Persian
+# This file is distributed under the same license as the Plugins - Gutenberg - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-01-15 15:45:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fa\n"
+"Project-Id-Version: Plugins - Gutenberg - Development (trunk)\n"
+
+#: lib/client-assets.php:101 build/i18n/index.js:1
+msgctxt "text direction"
+msgid "ltr"
+msgstr "rtl"
+
+#: lib/experiments-page.php:45 build/block-library/index.js:34
+#: build/edit-navigation/index.js:23
+msgid "Navigation"
+msgstr "راهبری"
+
+#: lib/full-site-editing/templates.php:54
+msgid "Templates list"
+msgstr "فهرست قالب ها"
+
+#: lib/full-site-editing/templates.php:52
+msgid "Filter templates list"
+msgstr "صافی فهرست قالب ها"
+
+#: lib/full-site-editing/templates.php:51
+msgid "Uploaded to this template"
+msgstr "بارگزاری در این قالب"
+
+#: lib/full-site-editing/templates.php:50
+msgid "Insert into template"
+msgstr "درج درون قالب"
+
+#: lib/full-site-editing/templates.php:49
+msgid "Template archives"
+msgstr "بایگانی های قالب"
+
+#: lib/full-site-editing/templates.php:48
+msgid "No templates found in Trash."
+msgstr "هیچ قالبی درون زباله دان پیدا نشد."
+
+#: lib/full-site-editing/templates.php:47
+msgid "No templates found."
+msgstr "هیچ قالبی یافت نشد."
+
+#: lib/full-site-editing/templates.php:46
+msgid "Parent Template:"
+msgstr "قالب مادر:"
+
+#: lib/full-site-editing/templates.php:45
+msgid "Search Templates"
+msgstr "جستجوی قالب ها"
+
+#: lib/full-site-editing/templates.php:44
+msgid "All Templates"
+msgstr "همه قالب ها"
+
+#: lib/full-site-editing/templates.php:43
+msgid "View Template"
+msgstr "مشاهده قالب"
+
+#: lib/full-site-editing/templates.php:42
+msgid "Edit Template"
+msgstr "ویرایش قالب"
+
+#: lib/full-site-editing/templates.php:41
+msgid "New Template"
+msgstr "قالب جدید"
+
+#: lib/full-site-editing/templates.php:40
+msgid "Add New Template"
+msgstr "افزودن قالب جدید"
+
+#: lib/full-site-editing/templates.php:39
+msgctxt "Template"
+msgid "Add New"
+msgstr "افزودن جدید"
+
+#: lib/full-site-editing/templates.php:38
+msgctxt "Admin Menu text"
+msgid "Templates"
+msgstr "قالب ها"
+
+#. translators: ARIA label for the Template Settings Sidebar tab, not selected.
+#. translators: Text label for the Template Settings Sidebar tab.
+#: lib/full-site-editing/templates.php:37 build/edit-site/index.js:22
+#: build/edit-site/index.js:24 build/edit-site/index.js:25
+#: build/edit-post/index.js:21 build/edit-post/index.js:37
+#: build/edit-post/index.js:38
+msgid "Template"
+msgstr "قالب"
+
+#: lib/full-site-editing/template-loader.php:200
+msgid "No matching template found"
+msgstr "هیچ قالب سازگانی پیدا نشد."
+
+#: lib/full-site-editing/templates.php:53
+msgid "Templates list navigation"
+msgstr "پیمایش فهرست قالب ها"
+
+#: lib/full-site-editing/templates.php:36 build/edit-site/index.js:26
+msgid "Templates"
+msgstr "قالب ها"
+
+#: lib/full-site-editing/templates.php:59
+msgid "Templates to include in your theme."
+msgstr "قالب‌هایی که پوستهٔ شما در بر خواهد گرفت."
+
+#: lib/init.php:75
+msgid "Experiments Settings"
+msgstr "تنظیمات بررسی"
+
+#. translators: accessibility text for the footer landmark region.
+#: lib/full-site-editing/template-parts.php:190 build/edit-site/index.js:15
+#: build/edit-widgets/index.js:15 build/block-library/index.js:79
+#: build/block-library/index.js:81 build/edit-post/index.js:15
+#: build/edit-navigation/index.js:15
+msgid "Footer"
+msgstr "پابرگ"
+
+#: build/block-library/blocks/search.php:25
+#: build/block-library/blocks/search.php:26
+#: build/block-library/blocks/search.php:52 build/block-library/index.js:65
+#: build/block-editor/index.js:42
+msgid "Search"
+msgstr "جستجو"
+
+#: build/block-library/blocks/rss.php:19
+msgid "RSS Error:"
+msgstr "خطای RSS:"
+
+#: build/block-library/blocks/rss.php:23
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "خطایی رخ داده است، که احتمالاً به این معنی است که خوراک کار نمی‌کند. بعداً دوباره تلاش کنید."
+
+#: lib/block-editor.php:181 build/block-editor/index.js:1
+msgid "Full Size"
+msgstr "اندازه کامل"
+
+#: lib/block-editor.php:178 build/block-editor/index.js:1
+msgid "Thumbnail"
+msgstr "تصویر بندانگشتی"
+
+#: lib/full-site-editing/default-template-types.php:65 build/blocks/index.js:1
+#: build/core-data/index.js:1 build/block-editor/index.js:68
+msgid "Media"
+msgstr "رسانه"
+
+#: lib/full-site-editing/template-parts.php:174 build/edit-site/index.js:15
+#: build/block-library/index.js:79 build/edit-post/index.js:21
+msgid "General"
+msgstr "عمومی"
+
+#: lib/block-editor.php:179 build/components/index.js:11
+#: build/block-editor/index.js:1 build/block-editor/index.js:9
+msgid "Medium"
+msgstr "میانه"
+
+#: build/block-library/blocks/archives.php:97
+msgid "No archives to show."
+msgstr "بایگانی برای نمایش وجود ندارد"
+
+#: post-content.php:41
+msgid "Beautiful landscape"
+msgstr "منظره زیبا"
+
+#: post-content.php:185
+msgid "Thanks for testing Gutenberg!"
+msgstr "تشکر برای آزمایش گوتنبرگ!"
+
+#: post-content.php:177
+msgid "Help build Gutenberg"
+msgstr "راهنما ساختن گوتنبرگ"
+
+#: post-content.php:159
+msgid "The WordPress community"
+msgstr "جامعه وردپرس"
+
+#: post-content.php:159 build/block-library/index.js:8
+msgid "Code is Poetry"
+msgstr "کد شعر است"
+
+#: post-content.php:67
+msgid "Galleries"
+msgstr "گالریها"
+
+#: post-content.php:32
+msgid "A Picture is Worth a Thousand Words"
+msgstr "یک تصویر ارزش هزار کلمه دارد"
+
+#: post-content.php:79
+msgid "Visual Editing"
+msgstr "ویرایش دیداری"
+
+#: post-content.php:65
+msgid "Text &amp; Headings"
+msgstr "متن و عنوان"
+
+#: post-content.php:66
+msgid "Images &amp; Videos"
+msgstr "فیلم و تصاویر"
+
+#: post-content.php:141
+msgid "The above is a gallery with just two images. It&#8217;s an easier way to create visually appealing layouts, without having to deal with floats. You can also easily convert the gallery back to individual images again, by using the block switcher."
+msgstr "عکس بالا یک گالری با دو تصویر است. این یک روش ساده‌تر برای ایجاد طرح‌های جذاب بصری است، بدون این که مجبور باشید با شناور شدن سر و کار داشته باشید. همچنین می‌توانید به راحتی گالری را با استفاده از تعویض بلوک به تصاویر انفرادی تبدیل کنید."
+
+#: post-content.php:83
+msgid "A huge benefit of blocks is that you can edit them in place and manipulate your content directly. Instead of having fields for editing things like the source of a quote, or the text of a button, you can directly change the content. Try editing the following quote:"
+msgstr "مزیت بزرگی از بلوک‌ها این است که شما می توانید آنها را در جای خود ویرایش کنید و محتوای خود را به طور مستقیم دستکاری کنید. به جای داشتن زمینه‌هایی برای ویرایش چیزهایی مانند منبع نقل قول یا متن یک دکمه، می‌توانید محتوای آن را به طور مستقیم تغییر دهید. سعی کنید که نقل قول زیر را ویرایش کنید:"
+
+#: post-content.php:68
+msgid "Embeds, like YouTube, Tweets, or other WordPress posts."
+msgstr "قراردادن، مانند یوتیوب، تویت‌ها، و یا سایر پست‌های وردپرس."
+
+#: post-content.php:116
+msgid "Media Rich"
+msgstr "رسانه غنی"
+
+#: post-content.php:112
+msgid "You can change the amount of columns in your galleries by dragging a slider in the block inspector in the sidebar."
+msgstr "شما می‌توانید با کشیدن یک اسلایدر در نوار کناری مقدار ستون‌ها را در گالری‌های خود تغییر دهید."
+
+#. translators: %s: Gutenberg GitHub repository URL
+#: post-content.php:168
+msgid "If you want to learn more about how to build additional blocks, or if you are interested in helping with the project, head over to the <a href=\"%s\">GitHub repository</a>."
+msgstr "اگر می‌خواهید درباره نحوه ساخت بلوک‌های اضافی بیشتر بدانید، یا اگر به کمک به پروژه علاقه‌مند هستید به <a href=\"%s\">مخزن GitHub</a> سر بزنید."
+
+#: post-content.php:128
+msgid "Sure, the full-wide image can be pretty big. But sometimes the image is worth it."
+msgstr "مطمئنا، تصویر تمام عیار می تواند بسیار بزرگ باشد. اما گاهی اوقات تصویر ارزشش را دارد."
+
+#: post-content.php:24
+msgid "... like this one, which is right aligned."
+msgstr "... مانند این یکی، که راست چین شده است."
+
+#: post-content.php:124
+msgid "Accessibility is important &mdash; don&#8217;t forget image alt attribute"
+msgstr "قابلیت دسترسی مهم است & mdash؛ ویژگی alt تصویر را فراموش نکن"
+
+#: post-content.php:56
+msgid "Imagine everything that WordPress can do is available to you quickly and in the same place on the interface. No need to figure out HTML tags, classes, or remember complicated shortcode syntax. That&#8217;s the spirit behind the inserter—the <code>(+)</code> button you&#8217;ll see around the editor—which allows you to browse all available content blocks and add them into your post. Plugins and themes are able to register their own, opening up all sort of possibilities for rich editing and publishing."
+msgstr "تصور کنید همه چیزهایی که وردپرس می تواند انجام دهد به شما در سرعت و در همان مکان در رابط کاربری در دسترس است. بدون نیاز به تشخیص تگ های HTML، کلاس ها، و یا به یاد داشته باشید نحو مختصر کوتاه. این روح پشت ورودی است - دکمه  <code>(+)</code>که در اطراف ویرایشگر مشاهده می کنید، که به شما اجازه می دهد تمام بلوک های موجود در لیست را مرور کنید و آنها را در پست خود اضافه کنید. پلاگین ها و تم ها قادر به ثبت نام خود، باز کردن همه نوع از امکانات برای ویرایش و ویرایش غنی است."
+
+#: post-content.php:20
+msgid "What you are reading now is a <strong>text block</strong> the most basic block of all. The text block has its own controls to be moved freely around the post..."
+msgstr "آنچه که در حال خواندن هستید <strong>text block</strong> است که پایه اصلی همه است. بلوک متن دارای کنترل های خاصی است که به طور آزادانه در اطراف پست منتقل می شود ..."
+
+#: post-content.php:16
+msgid "The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of <em>pieces of content</em>—somewhat similar to LEGO bricks—that you can move around and interact with. Move your cursor around and you&#8217;ll notice the different blocks light up with outlines and arrows. Press the arrows to reposition blocks quickly, without fearing about losing things in the process of copying and pasting."
+msgstr "هدف این ویرایشگر جدید افزودن محتوای غنی به وردپرس ساده و لذت بخش است. این پست کامل شامل  <em>pieces of content</em> است - تا حدودی شبیه به آجر LEGO - که میتوانید با آن حرکت کنید و با آن ارتباط برقرار کنید. حرکت مکان نما خود را در اطراف و شما متوجه بلوک های مختلف نور با خطوط و فلش. فلش را فشار دهید تا بلوک را به سرعت تغییر دهید، بدون اینکه ترس از دست دادن چیزهایی را در روند کپی و چسباندن داشته باشید."
+
+#: post-content.php:52
+msgid "The <em>Inserter</em> Tool"
+msgstr "ابزار <em>درج کننده</em>"
+
+#: post-content.php:89
+msgid "Matt Mullenweg, 2017"
+msgstr "Matt Mullenweg, 2017"
+
+#: post-content.php:42
+msgid "If your theme supports it, you&#8217;ll see the \"wide\" button on the image toolbar. Give it a try."
+msgstr "اگر پوسته شما از آن پشتیبانی کند دکمه \"عریض\" را در نوار ابزار تصویر مشاهده خواهید کرد. آن را امتحان کنید."
+
+#: post-content.php:69
+msgid "Layout blocks, like Buttons, Hero Images, Separators, etc."
+msgstr "طرح بندی بلوک‌ها، شبهه دکمه‌ها، تصاویر شاخص، جداکننده‌ها و غیره."
+
+#: post-content.php:70
+msgid "And <em>Lists</em> like this one of course :)"
+msgstr "و <em> لیست‌ها </em> البته مانند این یکی :)"
+
+#: post-content.php:155
+msgid "You can build any block you like, static or dynamic, decorative or plain. Here&#8217;s a pullquote block:"
+msgstr "شما می‌توانید هر بلوکی که دوست دارید ایجاد کنید، استاتیک یا پویا، تزئینی یا ساده. در اینجا یک بلوک بالایی است:"
+
+#: post-content.php:145
+msgid "Any block can opt into these alignments. The embed block has them also, and is responsive out of the box:"
+msgstr "هر بلوک می‌تواند به این ترازوها برسد. بلوک جاسازی نیز آنها را دارد و از جعبه پاسخگو است:"
+
+#: post-content.php:120
+msgid "If you combine the new <strong>wide</strong> and <strong>full-wide</strong> alignments with galleries, you can create a very media rich layout, very quickly:"
+msgstr "اگر شما ترکیب جدید <strong> گسترده </strong> و <strong> تمام عیار </strong> با گالری‌ها را ترکیب کنید، می‌توانید طرح بسیار غنی از رسانه‌ها را بسیار سریع ایجاد کنید:"
+
+#: post-content.php:98
+msgid "Blocks can be anything you need. For instance, you may want to add a subdued quote as part of the composition of your text, or you may prefer to display a giant stylized one. All of these options are available in the inserter."
+msgstr "بلوک می‌تواند هر چیزی که نیاز دارید باشد به عنوان مثال، ممکن است بخواهید یک نقل قول ضعیف را به عنوان بخشی از متن متن خود اضافه کنید، یا ممکن است ترجیح دهید یک نمایشگر غول پیکر تلقی کنید. همه این گزینه‌ها در داخل درج شده است."
+
+#: post-content.php:94
+msgid "The information corresponding to the source of the quote is a separate text field, similar to captions under images, so the structure of the quote is protected even if you select, modify, or remove the source. It&#8217;s always easy to add it back."
+msgstr "اطلاعات مربوط به منبع نقل قول یک فیلد متنی جداگانه است، شبیه به زیرنویس‌ها در زیر تصاویر، بنابراین ساختار نقل قول محافظت می‌شود حتی اگر شما انتخاب، اصلاح و یا حذف منبع. همیشه آسان است برای اضافه کردن آن به عقب."
+
+#: lib/demo.php:59
+msgid "Welcome to the Gutenberg Editor"
+msgstr "به ویرایشگر گوتنبرگ خوش آمدید"
+
+#: lib/class-wp-rest-menu-items-controller.php:68
+#: lib/class-wp-rest-menu-items-controller.php:887
+msgid "Unique identifier for the object."
+msgstr "شناسه منحصر به فرد برای این شی."
+
+#: lib/class-wp-rest-menu-items-controller.php:862
+msgid "The title for the object."
+msgstr "عنوان برای شی."
+
+#: build/block-library/blocks/archives.php:57
+msgid "Select Post"
+msgstr "انتخاب نوشته"
+
+#: build/block-library/blocks/archives.php:54
+msgid "Select Week"
+msgstr "انتخاب هفته"
+
+#: build/block-library/blocks/archives.php:51
+msgid "Select Day"
+msgstr "انتخاب روز"
+
+#: build/block-library/blocks/archives.php:48
+msgid "Select Month"
+msgstr "انتخاب ماه"
+
+#: build/block-library/blocks/archives.php:45
+msgid "Select Year"
+msgstr "انتخاب سال"
+
+#: build/block-library/blocks/archives.php:27
+msgid "Archives"
+msgstr "بایگانی ها"
+
+#. translators: 1: author name (inside <a> or <span> tag, based on if they have
+#. a URL), 2: post title related to this comment
+#: build/block-library/blocks/latest-comments.php:99
+msgid "%1$s on %2$s"
+msgstr "%1$s در %2$s"
+
+#: build/block-library/blocks/latest-comments.php:141
+msgid "No comments to show."
+msgstr "تعداد دیدگاه جهت نمایش."
+
+#: lib/init.php:59 lib/init.php:60
+msgid "Support"
+msgstr "پشتیبانی"
+
+#: lib/block-editor.php:180 build/components/index.js:11
+#: build/block-library/index.js:74 build/block-editor/index.js:1
+msgid "Large"
+msgstr "بزرگ"
+
+#: lib/init.php:98
+msgid "beta"
+msgstr "بتا"
+
+#: lib/init.php:35 lib/init.php:36 lib/experiments-page.php:56
+#: build/edit-widgets/index.js:21 build/blocks/index.js:1
+#: build/core-data/index.js:1 build/customize-widgets/index.js:1
+msgid "Widgets"
+msgstr "ابزارک‌ها"
+
+#: lib/full-site-editing/templates-utils.php:17 build/editor/index.js:5
+msgid "Status"
+msgstr "وضعیت"
+
+#: lib/block-patterns.php:15 build/editor/index.js:5
+msgid "Standard"
+msgstr "استاندارد"
+
+#: build/block-library/blocks/latest-comments.php:31
+#: build/block-library/blocks/rss.php:31
+#: build/block-library/blocks/latest-posts.php:103 build/edit-site/index.js:26
+#: build/block-library/index.js:34 build/block-library/index.js:52
+#: build/edit-post/index.js:38 build/core-data/index.js:1
+#: build/editor/index.js:21
+msgid "(no title)"
+msgstr "(بدون عنوان)"
+
+#. translators: ARIA label for the Block Settings Sidebar tab, not selected.
+#. translators: Text label for the Template Settings Sidebar tab.
+#. translators: Text label for the Block Settings Sidebar tab.
+#: lib/class-wp-widget-block.php:49 lib/navigation.php:91 lib/navigation.php:96
+#: build/edit-site/index.js:24 build/edit-site/index.js:25
+#: build/edit-site/index.js:26 build/edit-widgets/index.js:20
+#: build/edit-post/index.js:37 build/edit-post/index.js:38
+msgid "Block"
+msgstr "بلوک"
+
+#: lib/init.php:76
+msgid "Experiments"
+msgstr "آزمایش گوتنبرگ"
+
+#. Description of the plugin
+msgid "Printing since 1440. This is the development plugin for the new block editor in core."
+msgstr "بر مبنای صنعت حروفچینی چاپ از سال 1440. این افزونه در حال توسعه بعنوان ویرایشگر جدید بلاک در هسته است."
+
+#. translators: button label text should, if possible, be under 16 characters.
+#: lib/full-site-editing/templates-utils.php:15 build/components/index.js:5
+#: build/editor/index.js:25
+msgid "Slug"
+msgstr "نامک"
+
+#: lib/init.php:66 lib/init.php:67
+msgid "Documentation"
+msgstr "مستندات"
+
+#: build/block-library/blocks/categories.php:30
+msgid "Select Category"
+msgstr "انتخاب دسته"
+
+#: lib/class-wp-rest-menu-items-controller.php:506
+msgid "Invalid post type."
+msgstr "نوع نوشته نامعتبر است."
+
+#. translators: %s: Minimum required version
+#: gutenberg.php:30
+msgid "Gutenberg requires WordPress %s or later to function properly. Please upgrade WordPress before activating Gutenberg."
+msgstr "گوتنبرگ به وردپرس %s یا جدیدتر برای عملکرد صحیح نیاز دارد. لطفا قبل از فعالسازی گوتنبرگ وردپرس را ارتقاء دهید."
+
+#. Plugin Name of the plugin
+msgid "Gutenberg"
+msgstr "گوتنبرگ"
+
+#: lib/init.php:27 lib/init.php:28
+msgid "Demo"
+msgstr "پیشنمایش"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/WordPress/gutenberg"
+msgstr "https://github.com/WordPress/gutenberg"
+
+#. Author of the plugin
+msgid "Gutenberg Team"
+msgstr "تیم گوتنبرگ"
