@@ -1,0 +1,49 @@
+@font-face {
+  font-family: 'Sahel';
+  font-style: normal;
+  font-weight: normal;
+  src: url('fonts/Sahel/Sahel/Sahel-FD.eot');
+  src: url('fonts/Sahel/Sahel/Sahel-FD.eot?#iefix') format('embedded-opentype'),
+    url('fonts/Sahel/Sahel/Sahel-FD.woff2') format('woff2'),
+    url('fonts/Sahel/Sahel/Sahel-FD.woff') format('woff'),
+    url('fonts/Sahel/Sahel/Sahel-FD.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Sahel';
+  font-style: normal;
+  font-weight: bold;
+  src: url('fonts/Sahel/Sahel-Bold/Sahel-Bold-FD.eot');
+  src: url('fonts/Sahel/Sahel-Bold/Sahel-Bold-FD.eot?#iefix') format('embedded-opentype'),
+    url('fonts/Sahel/Sahel-Bold/Sahel-Bold-FD.woff2') format('woff2'),
+    url('fonts/Sahel/Sahel-Bold/Sahel-Bold-FD.woff') format('woff'),
+    url('fonts/Sahel/Sahel-Bold/Sahel-Bold-FD.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Sahel';
+  font-style: normal;
+  font-weight: lighter;
+  src: url('fonts/Sahel/Sahel-Light/Sahel-Light-FD.eot');
+  src: url('fonts/Sahel/Sahel-Light/Sahel-Light-FD.eot?#iefix') format('embedded-opentype'),
+    url('fonts/Sahel/Sahel-Light/Sahel-Light-FD.woff2') format('woff2'),
+    url('fonts/Sahel/Sahel-Light/Sahel-Light-FD.woff') format('woff'),
+    url('fonts/Sahel/Sahel-Light/Sahel-Light-FD.ttf') format('truetype');
+}
+
+body, a, ul, li, table, h1, h2, h3, h4, h5, h6, input, textarea, select, button, select, option, p, .woocommerce-Price-amount, .amount, .count, .cart-amount {
+    font-family: Sahel !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,25 @@
+2021-05-10T09:41:09+00:00 CRITICAL syntax error, unexpected '<', expecting end of file در /home/zarinpar/n.zarinpargar.ir/wp-content/themes/classic-shop-child/functions.php روی خط 128
+
+2021-05-10T09:44:47+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' در /home/zarinpar/n.zarinpargar.ir/wp-content/themes/yith-proteo/header.php روی خط 189
+
+2021-05-10T09:54:16+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function esc_url(), 0 passed in /home/zarinpar/n.zarinpargar.ir/wp-content/themes/yith-proteo/inc/widgets/class-yith-proteo-account-widget.php on line 61 and at least 1 expected in /home/zarinpar/n.zarinpargar.ir/wp-includes/formatting.php:4308
+Stack trace:
+#0 /home/zarinpar/n.zarinpargar.ir/wp-content/themes/yith-proteo/inc/widgets/class-yith-proteo-account-widget.php(61): esc_url()
+#1 /home/zarinpar/n.zarinpargar.ir/wp-includes/widgets.php(1216): YITH_Proteo_Account_Widget->widget(Array, Array)
+#2 /home/zarinpar/n.zarinpargar.ir/wp-content/themes/yith-proteo/header.php(193): the_widget('YITH_Proteo_Acc...', Array, Array)
+#3 /home/zarinpar/n.zarinpargar.ir/wp-includes/template.php(730): require_once('/home/zarinpar/...')
+#4 /home/zarinpar/n.zarinpargar.ir/wp-includes/template.php(676): load_template('/home/zarinpar/...', true, Array)
+#5 /home/zarinpar/n.zarinpargar.ir/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#6 /home/zar در /home/zarinpar/n.zarinpargar.ir/wp-includes/formatting.php روی خط 4308
+
+2021-05-10T09:56:37+00:00 CRITICAL Uncaught Error: Call to undefined function http://n.zarinpargar.ir/my-account/() in /home/zarinpar/n.zarinpargar.ir/wp-content/themes/yith-proteo/inc/widgets/class-yith-proteo-account-widget.php:61
+Stack trace:
+#0 /home/zarinpar/n.zarinpargar.ir/wp-includes/widgets.php(1216): YITH_Proteo_Account_Widget->widget(Array, Array)
+#1 /home/zarinpar/n.zarinpargar.ir/wp-content/themes/yith-proteo/header.php(193): the_widget('YITH_Proteo_Acc...', Array, Array)
+#2 /home/zarinpar/n.zarinpargar.ir/wp-includes/template.php(730): require_once('/home/zarinpar/...')
+#3 /home/zarinpar/n.zarinpargar.ir/wp-includes/template.php(676): load_template('/home/zarinpar/...', true, Array)
+#4 /home/zarinpar/n.zarinpargar.ir/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#5 /home/zarinpar/n.zarinpargar.ir/wp-content/themes/yith-proteo/page.php(11): get_header()
+#6 /home/zarinpar/n.zarinpargar.ir/wp-includes/template-loader.php(106): include('/home/zarinpar/...')
+#7 /home/zarinpar/n.zarinpargar.ir/wp-blog- در /home/zarinpar/n.zarinpargar.ir/wp-content/themes/yith-proteo/inc/widgets/class-yith-proteo-account-widget.php روی خط 61
+

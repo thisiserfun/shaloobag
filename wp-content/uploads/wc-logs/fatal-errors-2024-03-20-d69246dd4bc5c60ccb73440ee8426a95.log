@@ -1,0 +1,11 @@
+2024-03-20T01:17:25+00:00 CRITICAL Uncaught Error: Call to undefined function str_contains() in C:\wamp64\www\shadloobag\wp-admin\includes\class-wp-site-health-auto-updates.php:335
+Stack trace:
+#0 C:\wamp64\www\shadloobag\wp-admin\includes\class-wp-site-health-auto-updates.php(38): WP_Site_Health_Auto_Updates->test_all_files_writable()
+#1 C:\wamp64\www\shadloobag\wp-admin\includes\class-wp-site-health.php(1787): WP_Site_Health_Auto_Updates->run_tests()
+#2 C:\wamp64\www\shadloobag\wp-admin\includes\class-wp-site-health.php(177): WP_Site_Health->get_test_background_updates()
+#3 C:\wamp64\www\shadloobag\wp-admin\includes\class-wp-site-health.php(2743): WP_Site_Health->perform_test(Array)
+#4 C:\wamp64\www\shadloobag\wp-includes\class-wp-hook.php(292): WP_Site_Health->wp_cron_scheduled_check()
+#5 C:\wamp64\www\shadloobag\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#6 C:\wamp64\www\shadloobag\wp-includes\plugin.php(551): WP_Hook->do_action(Array)
+#7 C:\wamp64\www\shadloobag\wp-cron.php(138): do_action_ref_array('wp_site_hea در C:\wamp64\www\shadloobag\wp-admin\includes\class-wp-site-health-auto-updates.php روی خط 335
+
