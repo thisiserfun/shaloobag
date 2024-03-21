@@ -51,7 +51,7 @@ define( 'DB_USER', "root" );
 
 /** MySQL database password */
 
-define( 'DB_PASSWORD', "" );
+define( 'DB_PASSWORD', "root" );
 
 
 /** MySQL hostname */

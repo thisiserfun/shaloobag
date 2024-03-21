@@ -2,12 +2,17 @@
 #The original can be found in archived file with the name .htaccess__[HASH]
 
 # BEGIN WordPress
+# دستورالعمل‌های (خطوط) بین "BEGIN WordPress" و "END WordPress"
+# به طور پویا تولید شده‌اند، و فقط باید به وسیلهٔ صافی‌های وردرپرس ویرایش شوند.
+# هر تغییری در دستورالعمل‌های بین این نشان‌گرها بازنویشی خواهند شد.
 <IfModule mod_rewrite.c>
 RewriteEngine On
-RewriteBase /shadloobag/
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteBase /shaloobag/
 RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /shadloobag/index.php [L]
+RewriteRule . /shaloobag/index.php [L]
 </IfModule>
+
 # END WordPress
